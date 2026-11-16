@@ -1,0 +1,802 @@
+[
+  {
+    "Número": "#1",
+    "Título": "Batman: Yo soy Gotham",
+    "Contenido": "Batman \"Rebirth\" Vol.1 #1, Batman Vol.3 #1 al 6 y Batman/Elmer Fudd Special",
+    "Año": "2016.0",
+    "Saga/evento": "",
+    "Periodo": "Rebirth",
+    "Personaje": "Batman",
+    "Url Whakoom": "https://www.whakoom.com/comics/jpGR0/coleccion_heroes_y_villanos/1"
+  },
+  {
+    "Número": "#2",
+    "Título": "Harley Quinn: Calor en la ciudad",
+    "Contenido": "Harley Quinn Vol.2 #0 al 7 y Batman \"Harley Quinn\"",
+    "Año": "2014.0",
+    "Saga/evento": "",
+    "Periodo": "The New52",
+    "Personaje": "Harley Quinn",
+    "Url Whakoom": "https://www.whakoom.com/comics/ypGR3/coleccion_heroes_y_villanos/2"
+  },
+  {
+    "Número": "#3",
+    "Título": "Escuadrón Suicida: La cámara negra",
+    "Contenido": "Harley Quinn and the Suicide Squad April's Fool's Special núm. 1 USA (one-shot), Suicide Squad: Rebirth núm. 1 USA (one-shot), Suicide Squad Vol. 5 núms. 1-4 USA y Suicide Squad Special: War Crimes USA (one-shot).",
+    "Año": "2016.0",
+    "Saga/evento": "Suicide Squad Rebirth",
+    "Periodo": "Rebirth",
+    "Personaje": "Harley Quinn, Suicide Squad",
+    "Url Whakoom": "https://www.whakoom.com/comics/pGRiq/coleccion_heroes_y_villanos/3"
+  },
+  {
+    "Número": "#4",
+    "Título": "Flash: Renacimiento",
+    "Contenido": "The Flash: Rebirth núms. 1 a 6 USA, The Flash Secret Files and Origins 2010 USA",
+    "Año": "2009.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Flash",
+    "Url Whakoom": "https://www.whakoom.com/comics/pGRRq/coleccion_heroes_y_villanos/4"
+  },
+  {
+    "Número": "#5",
+    "Título": "Maldad eterna",
+    "Contenido": "Forever Evil Vol. 1 #1 al 7 y Justice League Vol. 2 #23.4",
+    "Año": "2013.0",
+    "Saga/evento": "Darkseid War",
+    "Periodo": "The New52",
+    "Personaje": "Lex Luthor, Evento/Crossover",
+    "Url Whakoom": "https://www.whakoom.com/comics/yp0vn/coleccion_heroes_y_villanos/5"
+  },
+  {
+    "Número": "#6",
+    "Título": "Superman: El hijo de Superman",
+    "Contenido": "Superman Vol. 4 núms. 1-6 USA, Superman: Rebirth núm. 1 USA",
+    "Año": "2016.0",
+    "Saga/evento": "Superman Rebirth",
+    "Periodo": "Rebirth",
+    "Personaje": "Superman",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0vIk/coleccion_heroes_y_villanos/6"
+  },
+  {
+    "Número": "#7",
+    "Título": "Joker: El abogado del diablo",
+    "Contenido": "Joker: Devil's Advocate, Detective Comics núms. 726 y 826 USA",
+    "Año": "1996.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Joker",
+    "Url Whakoom": "https://www.whakoom.com/comics/8p0vo/coleccion_heroes_y_villanos/7"
+  },
+  {
+    "Número": "#8",
+    "Título": "Batman: Yo, mi peor enemigo",
+    "Contenido": "All-Star Batman núms. 1 a 7 USA",
+    "Año": "2016.0",
+    "Saga/evento": "",
+    "Periodo": "Rebirth",
+    "Personaje": "Batman",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0vZ/coleccion_heroes_y_villanos/8"
+  },
+  {
+    "Número": "#9",
+    "Título": "Wonder Woman: Reflexiones",
+    "Contenido": "Wonder Woman Vol. 2 #195–202 USA - 2003/2004",
+    "Año": "2003.0",
+    "Saga/evento": "Wonder Woman Rucka",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Wonder Woman",
+    "Url Whakoom": "https://www.whakoom.com/comics/6p0vb/coleccion_heroes_y_villanos/9"
+  },
+  {
+    "Número": "#10",
+    "Título": "Escuadrón Suicida contra la Liga de la Justicia",
+    "Contenido": "Justice League vs. Suicide Squad núms. 1-6 USA, Suicide Squad Vol.5 núm. 8 USA",
+    "Año": "2017.0",
+    "Saga/evento": "Suicide Squad Rebirth",
+    "Periodo": "Rebirth",
+    "Personaje": "Suicide Squad, Evento/Crossover, Justice League",
+    "Url Whakoom": "https://www.whakoom.com/comics/yp0vG/coleccion_heroes_y_villanos/10"
+  },
+  {
+    "Número": "#11",
+    "Título": "Harley Quinn: Morir riendo",
+    "Contenido": "Harley Quinn Vol. 3 #1-7 USA - 2016/2017",
+    "Año": "2016.0",
+    "Saga/evento": "",
+    "Periodo": "Rebirth",
+    "Personaje": "Harley Quinn",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0vl/coleccion_heroes_y_villanos/11"
+  },
+  {
+    "Número": "#12",
+    "Título": "Crisis Infinita: El Proyecto OMAC",
+    "Contenido": "Countdown to Infinite Crisis núm. 1 USA, OMAC Project núms. 1-6 USA, Superman vol. 2 núm. 217 USA",
+    "Año": "2005.0",
+    "Saga/evento": "Infinite Crisis",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Superman, Evento/Crossover",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0v0/coleccion_heroes_y_villanos/12"
+  },
+  {
+    "Número": "#13",
+    "Título": "Joker Asylum. Vol. 1",
+    "Contenido": "The Joker's Asylum: The Joker, The Joker's Asylum: Penguin, The Joker's Asylum: Poison Ivy, The Joker's Asylum: Scarecrow, The Joker's Asylum: Two-Face, Batman / Scarface: A Psychodrama, DC's Beach Blanket Bad Guys Summer Special (extracto Close Shave) USA.",
+    "Año": "2008.0",
+    "Saga/evento": "Joker Asylum",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Joker",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0v36/coleccion_heroes_y_villanos/13"
+  },
+  {
+    "Número": "#14",
+    "Título": "Liga de la Justicia: La guerra de Darkseid. Vol. 1",
+    "Contenido": "Justice League Vol. 2 #40-44 USA - 2015, DC Sneak Peek: Justice League #1 USA - 2015.",
+    "Año": "2015.0",
+    "Saga/evento": "Darkseid War",
+    "Periodo": "The New52",
+    "Personaje": "Evento/Crossover, Darkseid, Justice League",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0vi/coleccion_heroes_y_villanos/14"
+  },
+  {
+    "Número": "#15",
+    "Título": "Batman: Ciudad rota",
+    "Contenido": "Batman núms. 620 a 625 USA, Batman: Gotham Knights núm. 8 (Extracto Scars), Wednesday Comics 1 (Extracto historia Batman) USA, Detective Comics núm. 1.027 USA (extracto Rookie)",
+    "Año": "2003.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Batman",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0vR/coleccion_heroes_y_villanos/15"
+  },
+  {
+    "Número": "#16",
+    "Título": "Aquaman: La fosa",
+    "Contenido": "Aquaman Vol. 7 #0-6 USA - 2011/2012",
+    "Año": "2011.0",
+    "Saga/evento": "",
+    "Periodo": "The New52",
+    "Personaje": "Aquaman",
+    "Url Whakoom": "https://www.whakoom.com/comics/yp0vD/coleccion_heroes_y_villanos/16"
+  },
+  {
+    "Número": "#17",
+    "Título": "Joker Asylum. Vol. 2",
+    "Contenido": "The Joker's Asylum: The Riddler, The Joker's Asylum: Harley Quinn, The Joker's Asylum: The Mad Hatter, The Joker's Asylum: Killer Croc, The Joker's Asylum: Clayface y Batman: Mr. Freeze USA",
+    "Año": "2011.0",
+    "Saga/evento": "Joker Asylum",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Joker",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0LT/coleccion_heroes_y_villanos/17"
+  },
+  {
+    "Número": "#18",
+    "Título": "Question: Los cinco libros de sangre",
+    "Contenido": "Crime Bible: Five Lessons of Blood #1-5 (diciembre, 2007—marzo, 2008) y Detective Comics #854-865: «Pipeline: Chapter One» y «Pipeline: Chapter Two» (agosto, 2009—julio, 2010). DC Comics.",
+    "Año": "2007.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Question",
+    "Url Whakoom": "https://www.whakoom.com/comics/yp0LN/coleccion_heroes_y_villanos/18"
+  },
+  {
+    "Número": "#19",
+    "Título": "Liga de la Justicia: La guerra de Darkseid. Vol. 2",
+    "Contenido": "Justice League núms. 45-50 Justice League: Darkseid War Special núm. 1 USA",
+    "Año": "2015.0",
+    "Saga/evento": "Darkseid War",
+    "Periodo": "The New52",
+    "Personaje": "Evento/Crossover, Justice League, Darkseid",
+    "Url Whakoom": "https://www.whakoom.com/comics/8p0L5/coleccion_heroes_y_villanos/19"
+  },
+  {
+    "Número": "#20",
+    "Título": "Superman y la Legión de Superhéroes",
+    "Contenido": "Action Comics núms. 858–863 USA",
+    "Año": "2007.0",
+    "Saga/evento": "Superman Legion",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Superman",
+    "Url Whakoom": "https://www.whakoom.com/comics/yp0LV/coleccion_heroes_y_villanos/20"
+  },
+  {
+    "Número": "#21",
+    "Título": "Batwoman: Los muchos brazos de la muerte",
+    "Contenido": "Batwoman: Rebirth núm. 1 USA (one-shot), Batwoman Vol.3 núms. 1 a 6 USA",
+    "Año": "2017.0",
+    "Saga/evento": "",
+    "Periodo": "Rebirth",
+    "Personaje": "Batwoman",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Lwk/coleccion_heroes_y_villanos/21"
+  },
+  {
+    "Número": "#22",
+    "Título": "Superman: El hombre que lo tenía todo",
+    "Contenido": "Green Lantern/Superman: Legends of the Green Flame GN, Action Comics núm. 583, Superman núm. 423, DC Comics Presents núm. 85 y Superman Annual núm. 11 USA",
+    "Año": "1986.0",
+    "Saga/evento": "",
+    "Periodo": "Pre-Crisis",
+    "Personaje": "Superman",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0LA7/coleccion_heroes_y_villanos/22"
+  },
+  {
+    "Número": "#23",
+    "Título": "Joker: Quien ríe el último",
+    "Contenido": "Joker: Last Laugh Secret Files (extracto), Joker: Last Laugh núms. 1–6 USA",
+    "Año": "2001.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Joker",
+    "Url Whakoom": "https://www.whakoom.com/comics/yp0La/coleccion_heroes_y_villanos/23"
+  },
+  {
+    "Número": "#24",
+    "Título": "Canario Negro y Zatanna: Hechizo de sangre",
+    "Contenido": "Black Canary and Zatanna: Bloodspell USA",
+    "Año": "2014.0",
+    "Saga/evento": "",
+    "Periodo": "The New52",
+    "Personaje": "Black Canary, Zatanna",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Lr6/coleccion_heroes_y_villanos/24"
+  },
+  {
+    "Número": "#25",
+    "Título": "Liga de la Justicia de América: Crisis en Nueva Génesis",
+    "Contenido": "Justice League of America núms. 183–185, 195–197, 200 USA",
+    "Año": "1980.0",
+    "Saga/evento": "",
+    "Periodo": "Pre-Crisis",
+    "Personaje": "Darkseid, Justice League",
+    "Url Whakoom": "https://www.whakoom.com/comics/6p0LM/coleccion_heroes_y_villanos/25"
+  },
+  {
+    "Número": "#26",
+    "Título": "Crisis infinita: Sacrificio",
+    "Contenido": "Superman vol. 2 núm. 219, Action Comics vol. 1 núm. 829, Adventures of Superman vol. 1 núms. 642–643, Wonder Woman vol. 2 núms. 219–221 USA",
+    "Año": "2005.0",
+    "Saga/evento": "Infinite Crisis, Wonder Woman Rucka",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Evento/Crossover, Wonder Woman, Superman",
+    "Url Whakoom": "https://www.whakoom.com/comics/kp0Lz/coleccion_heroes_y_villanos/26"
+  },
+  {
+    "Número": "#27",
+    "Título": "Shazam: ¡El poder de Shazam!",
+    "Contenido": "The Power of Shazam! Graphic Novel, The Power of Shazam! números 1 a 4 y Superman & Batman Magazine número 4",
+    "Año": "1994.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Shazam",
+    "Url Whakoom": "https://www.whakoom.com/comics/kp0LO/coleccion_heroes_y_villanos/27"
+  },
+  {
+    "Número": "#28",
+    "Título": "Superman: Las pruebas del superhijo",
+    "Contenido": "Superman núms. 7 a 13 USA",
+    "Año": "2016.0",
+    "Saga/evento": "Superman Rebirth",
+    "Periodo": "Rebirth",
+    "Personaje": "Superman",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0LHk/coleccion_heroes_y_villanos/28"
+  },
+  {
+    "Número": "#29",
+    "Título": "Green Lantern: Crepúsculo esmeralda",
+    "Contenido": "Green Lantern (Volume 3) #48-55 USA",
+    "Año": "1993.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Green Lantern",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0Lt/coleccion_heroes_y_villanos/29"
+  },
+  {
+    "Número": "#30",
+    "Título": "Crisis en tierras infinitas. Vol. 1",
+    "Contenido": "Crisis on Infinite Earths núms. 1-6, DC Comics Presents núm. 86 y Legends of the DC Universe: Crisis On Infinite Earths núm. 1 USA",
+    "Año": "1985.0",
+    "Saga/evento": "Crisis on infinite earths",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Evento/Crossover",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0LFq/coleccion_heroes_y_villanos/30"
+  },
+  {
+    "Número": "#31",
+    "Título": "Superhijos: Cuando sea mayor",
+    "Contenido": "Super Sons núms. 1-5, Super Sons Annual 1 USA",
+    "Año": "2017.0",
+    "Saga/evento": "Superman Rebirth",
+    "Periodo": "Rebirth",
+    "Personaje": "Superman",
+    "Url Whakoom": "https://www.whakoom.com/comics/8p0LW/coleccion_heroes_y_villanos/31"
+  },
+  {
+    "Número": "#32",
+    "Título": "Crisis Infinita: La Guerra Rann / Thanagar",
+    "Contenido": "Hawkman vol. 4 núm. 46, Rann-Thanagar War núms. 1-6 USA",
+    "Año": "2006.0",
+    "Saga/evento": "Infinite Crisis",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Hawkman",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0LB6/coleccion_heroes_y_villanos/32"
+  },
+  {
+    "Número": "#33",
+    "Título": "Green Lantern: Renacimiento",
+    "Contenido": "Green Lantern: Rebirth núms. 1 a 6, Wizard X (extracto prólogo Green Lantern: Rebirth), Green Lantern núm. 1, Green Lantern Secret Files and Origins USA",
+    "Año": "2004.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Green Lantern",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Lxq/coleccion_heroes_y_villanos/33"
+  },
+  {
+    "Número": "#34",
+    "Título": "Wonder Woman: Año uno",
+    "Contenido": "Wonder Woman Vol. 5 núms. 2, 4, 6, 8, 10, 12 y 14 USA, Wonder Woman Annual núm. 1 USA",
+    "Año": "2016.0",
+    "Saga/evento": "Wonder Woman Rebirth",
+    "Periodo": "Rebirth",
+    "Personaje": "Wonder Woman",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0Lh/coleccion_heroes_y_villanos/34"
+  },
+  {
+    "Número": "#35",
+    "Título": "Crisis en Tierras Infinitas Vol. 2",
+    "Contenido": "Crisis on Infinite Earths núms. 7-12, DC Comics Presents núm. 87 y Superman núm. 414.",
+    "Año": "1986.0",
+    "Saga/evento": "Crisis on infinite earths",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Evento/Crossover",
+    "Url Whakoom": "https://www.whakoom.com/comics/yp0L2/coleccion_heroes_y_villanos/35"
+  },
+  {
+    "Número": "#36",
+    "Título": "Starman: Los pecados del padre",
+    "Contenido": "Starman Vol. 2 #0-6 USA.",
+    "Año": "1994.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Starman, JSA",
+    "Url Whakoom": "https://www.whakoom.com/comics/8p0L4/coleccion_heroes_y_villanos/36"
+  },
+  {
+    "Número": "#37",
+    "Título": "Green Lantern: La guerra de los Sinestro Corps. Vol. 1",
+    "Contenido": "Sinestro Corps Special, Green Lantern núms. 21-23, Green Lantern Corps núms. 14-16, Tales Sinestro Corps: Parallax USA",
+    "Año": "2007.0",
+    "Saga/evento": "Sinestro Corps Wars",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Green Lantern",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Lp6/coleccion_heroes_y_villanos/37"
+  },
+  {
+    "Número": "#38",
+    "Título": "JLA: El vaivén de los tiempos",
+    "Contenido": "JLA núms. 10-17, New Year’s Evil: Prometheus USA",
+    "Año": "1997.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Justice League",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Lmk/coleccion_heroes_y_villanos/38"
+  },
+  {
+    "Número": "#39",
+    "Título": "Mundo Halcón",
+    "Contenido": "Hawkworld núms. 1-3 USA",
+    "Año": "1989.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Hawkman",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Lv7/coleccion_heroes_y_villanos/39"
+  },
+  {
+    "Número": "#40",
+    "Título": "Aquaman: El ahogamiento",
+    "Contenido": "Aquaman: Rebirth núm. 1 USA (one-shot), Aquaman Vol. 8 núms. 1 a 6 USA",
+    "Año": "2016.0",
+    "Saga/evento": "",
+    "Periodo": "Rebirth",
+    "Personaje": "Aquaman",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0LL/coleccion_heroes_y_villanos/40"
+  },
+  {
+    "Número": "#41",
+    "Título": "Crisis Infinita: Villanos Unidos",
+    "Contenido": "Villains United núms. 1-6, Superman Vol. 2 núm. 221, Action Comics Vol. 1 núms. 830-831 USA",
+    "Año": "2005.0",
+    "Saga/evento": "Infinite Crisis",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Evento/Crossover, Lex Luthor",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0LXq/coleccion_heroes_y_villanos/41"
+  },
+  {
+    "Número": "#42",
+    "Título": "Superman: El Hombre De Acero",
+    "Contenido": "The Man of Steel núms. 1-6 USA",
+    "Año": "1986.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Superman",
+    "Url Whakoom": "https://www.whakoom.com/comics/6p0L1/coleccion_heroes_y_villanos/42"
+  },
+  {
+    "Número": "#43",
+    "Título": "Crisis Infinita: El Día De La Venganza",
+    "Contenido": "Day of Vengeance núms. 1-6, JSA Vol. 1 núms. 73-75 USA",
+    "Año": "2005.0",
+    "Saga/evento": "Infinite Crisis",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Evento/Crossover",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Lg7/coleccion_heroes_y_villanos/43"
+  },
+  {
+    "Número": "#44",
+    "Título": "Crisis infinita. Vol. 1",
+    "Contenido": "Infinite Crisis núms. 1-4, Day of Vengeance Infinite Crisis Special núm. 1, Rann-Thanagar War Infinite Crisis Special núm. 1, Infinite Crisis Secret Files núm. 1 USA",
+    "Año": "2005.0",
+    "Saga/evento": "Infinite Crisis",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Evento/Crossover, Superman",
+    "Url Whakoom": "https://www.whakoom.com/comics/yp0Ld/coleccion_heroes_y_villanos/44"
+  },
+  {
+    "Número": "#45",
+    "Título": "Escuadrón Suicida: Prueba de fuego",
+    "Contenido": "Secret Origins núm. 14, Suicide Squad Vol. 1 núms. 1-8 USA",
+    "Año": "1987.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Suicide Squad, Deadshot",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Lf6/coleccion_heroes_y_villanos/45"
+  },
+  {
+    "Número": "#46",
+    "Título": "Green Lantern: La guerra de los Sinestro Corps. Vol. 2",
+    "Contenido": "Tales of the Sinestro Corps: Cyborg Superman núm. 1, Green Lantern núms. 24–25, Green Lantern Corps núms. 17–19, Tales of the Sinestro Corps: Superman-Prime núm. 1, Tales of the Sinestro Corps: Ion núm. 1 USA",
+    "Año": "2007.0",
+    "Saga/evento": "Sinestro Corps Wars",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Green Lantern, Evento/Crossover",
+    "Url Whakoom": "https://www.whakoom.com/comics/kp0L9/coleccion_heroes_y_villanos/46"
+  },
+  {
+    "Número": "#47",
+    "Título": "Batman: La leyenda jamás contada",
+    "Contenido": "Untold Legends of the Batman núms. 1-3 USA, Detective Comics núms. 457 y 500 USA (1a historia en ambas), Secret Origins of the World's Greatest Super-Heroes USA (parte de Batman) y Detective Comics núms. 27 USA (1a historia)",
+    "Año": "1980.0",
+    "Saga/evento": "",
+    "Periodo": "Pre-Crisis",
+    "Personaje": "Batman",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0LP6/coleccion_heroes_y_villanos/47"
+  },
+  {
+    "Número": "#48",
+    "Título": "Crisis infinita. Vol. 2",
+    "Contenido": "Infinite Crisis núms. 5-7, Superman Vol. 2 núms. 226, Action Comics Vol. 1 núms. 836, Adventures of Superman Vol. 1 núms. 649, Infinite Crisis Special: The OMAC Project y Infinite Crisis Special:Villians United USA",
+    "Año": "2006.0",
+    "Saga/evento": "Infinite Crisis",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Evento/Crossover, Superman",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Lnq/coleccion_heroes_y_villanos/48"
+  },
+  {
+    "Número": "#49",
+    "Título": "All-Star Squadron: La saga del Ultrahumanita",
+    "Contenido": "All-Star Squadron #21-26 y Annual #2",
+    "Año": "1981.0",
+    "Saga/evento": "",
+    "Periodo": "Pre-Crisis",
+    "Personaje": "JSA",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0LI7/coleccion_heroes_y_villanos/49"
+  },
+  {
+    "Número": "#50",
+    "Título": "Liga De La Justicia De América: La Senda Del Tornado",
+    "Contenido": "Justice League of America Vol. 2 #0-7",
+    "Año": "2006.0",
+    "Saga/evento": "Justice League Brad Meltzer",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Justice League",
+    "Url Whakoom": "https://www.whakoom.com/comics/8p0Lo/coleccion_heroes_y_villanos/50"
+  },
+  {
+    "Número": "#51",
+    "Título": "Lex Luthor: El anillo negro. Vol. 1",
+    "Contenido": "Action Comics #890-896 y Secret Six #29",
+    "Año": "2010.0",
+    "Saga/evento": "Lex Luthor Black Ring",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Lex Luthor",
+    "Url Whakoom": "https://www.whakoom.com/comics/yp0LZ/coleccion_heroes_y_villanos/51"
+  },
+  {
+    "Número": "#52",
+    "Título": "Batman: Mi principio… y mi probable fin",
+    "Contenido": "Detective Comics núms. 569-574 USA",
+    "Año": "1986.0",
+    "Saga/evento": "",
+    "Periodo": "Pre-Crisis",
+    "Personaje": "Batman",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Lb7/coleccion_heroes_y_villanos/52"
+  },
+  {
+    "Número": "#53",
+    "Título": "Sociedad De La Justicia De América: La Nueva Era",
+    "Contenido": "Justice Society of America Vol.3 #1-4 y #7-8",
+    "Año": "2007.0",
+    "Saga/evento": "JSA Vol.3",
+    "Periodo": "Post-Crisis",
+    "Personaje": "JSA",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0LGk/coleccion_heroes_y_villanos/53"
+  },
+  {
+    "Número": "#54",
+    "Título": "Deathstroke: Ciudad de asesinos",
+    "Contenido": "The New Titans #70 y Deathstroke the Terminator Vol. 1 #1-9",
+    "Año": "1991.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Teen Titans, Deathstroke",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0Ll/coleccion_heroes_y_villanos/54"
+  },
+  {
+    "Número": "#55",
+    "Título": "Lex Luthor: El anillo negro. Vol. 2",
+    "Contenido": "Action Comics #897-900 y Action Comics Annual #13",
+    "Año": "2011.0",
+    "Saga/evento": "Lex Luthor Black Ring",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Lex Luthor",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0L06/coleccion_heroes_y_villanos/55"
+  },
+  {
+    "Número": "#56",
+    "Título": "Liga de la Justicia: La saga del rayo",
+    "Contenido": "Justice League of America Vol. 2 #8-12, Justice Society of America (Vol. 3) #5-6",
+    "Año": "2007.0",
+    "Saga/evento": "Justice League Brad Meltzer, JSA Vol.3",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Justice League",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0L3q/coleccion_heroes_y_villanos/56"
+  },
+  {
+    "Número": "#57",
+    "Título": "Legión de Superhéroes: La oscuridad inminente",
+    "Contenido": "Legion of Super-Heroes Vol. 2 núms. 285-289, Legion of Super-Heroes Annual 1",
+    "Año": "1980.0",
+    "Saga/evento": "",
+    "Periodo": "Pre-Crisis",
+    "Personaje": "Darkseid, Legion de Super-Heroes",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Lik/coleccion_heroes_y_villanos/57"
+  },
+  {
+    "Número": "#58",
+    "Título": "Escuadrón Suicida: Patada en la boca",
+    "Contenido": "Suicide Squad Vol. 4 núms. 1 a 8 USA",
+    "Año": "2011.0",
+    "Saga/evento": "",
+    "Periodo": "The New52",
+    "Personaje": "Suicide Squad, Deadshot",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0LRq/coleccion_heroes_y_villanos/58"
+  },
+  {
+    "Número": "#59",
+    "Título": "Aquaman: Las crónicas de Atlantis",
+    "Contenido": "The Atlantis Chronicles 1-7 USA",
+    "Año": "1990.0",
+    "Saga/evento": "Aquaman Peter David",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Aquaman",
+    "Url Whakoom": "https://www.whakoom.com/comics/6p0LD/coleccion_heroes_y_villanos/59"
+  },
+  {
+    "Número": "#60",
+    "Título": "Gotham Central: Blancos Fáciles",
+    "Contenido": "Gotham Central v1 1-2, 6-10 y 12-15 USA",
+    "Año": "2003.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Batman",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0XT6/coleccion_heroes_y_villanos/60"
+  },
+  {
+    "Número": "#61",
+    "Título": "Aves de Presa: Cacería",
+    "Contenido": "Black Canary/ Oracle: Birds of Prey USA, Birds of Prey: Manhunt 1-4 USA y Birds of Prey: Revolution, Wolves y Batgirl USA",
+    "Año": "1995.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Black Canary, Batgirl",
+    "Url Whakoom": "https://www.whakoom.com/comics/8p0XN/coleccion_heroes_y_villanos/61"
+  },
+  {
+    "Número": "#62",
+    "Título": "Green Lantern Corps: Relatos de los Corps",
+    "Contenido": "Tales of the Green Lantern Corps #1-3, historias de complemento de Green Lantern #148, #161-162, #164-167, #171-173, #179-180, #182-183, #188-190, Omega Men #26-27 y Tales of Green Lantern Corps Annual #2-3. DC Comics.",
+    "Año": "1981.0",
+    "Saga/evento": "",
+    "Periodo": "Pre-Crisis",
+    "Personaje": "Green Lantern",
+    "Url Whakoom": "https://www.whakoom.com/comics/8p0X5/coleccion_heroes_y_villanos/62"
+  },
+  {
+    "Número": "#63",
+    "Título": "Sociedad de la Justicia: Kingdom Come Vol. 1",
+    "Contenido": "Justice Society of America (vol 3) #9-17 y Justice Society of America (vol 3) Annual #1",
+    "Año": "2007.0",
+    "Saga/evento": "JSA Vol.3",
+    "Periodo": "Post-Crisis",
+    "Personaje": "JSA",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0XVq/coleccion_heroes_y_villanos/63"
+  },
+  {
+    "Número": "#64",
+    "Título": "Flash: Carrera por la Humanidad",
+    "Contenido": "The Flash #136-141 USA",
+    "Año": "1998.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Flash",
+    "Url Whakoom": "https://www.whakoom.com/comics/6p0Xw/coleccion_heroes_y_villanos/64"
+  },
+  {
+    "Número": "#65",
+    "Título": "Los Seis Secretos: Seis Grados de Desolación",
+    "Contenido": "Secret Six (Vol.2) num 1-6 USA",
+    "Año": "2006.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Deadshot",
+    "Url Whakoom": "https://www.whakoom.com/comics/yp0XA/coleccion_heroes_y_villanos/65"
+  },
+  {
+    "Número": "#66",
+    "Título": "Sociedad de la Justicia: Kingdom Come Vol. 2",
+    "Contenido": "Justice Society of America Vol. 3 #18-22, JSA Kingdom Come special: Magog 1, JSA Kingdom Come special: Superman 1 y JSA Kingdom Come special: The Kingdom 1 USA.",
+    "Año": "2008.0",
+    "Saga/evento": "JSA Vol.3",
+    "Periodo": "Post-Crisis",
+    "Personaje": "JSA",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Xa6/coleccion_heroes_y_villanos/66"
+  },
+  {
+    "Número": "#67",
+    "Título": "Vigilante: Yo soy la Justicia",
+    "Contenido": "The New Teen Titans Annual Vol. 1 #2, Vigilante Vol. 1 #1-7 y #17-18 USA.",
+    "Año": "1983.0",
+    "Saga/evento": "",
+    "Periodo": "Pre-Crisis",
+    "Personaje": "Vigilante",
+    "Url Whakoom": "https://www.whakoom.com/comics/8p0Xr/coleccion_heroes_y_villanos/67"
+  },
+  {
+    "Número": "#68",
+    "Título": "Deathstroke: El Profesional",
+    "Contenido": "Deathstroke: Rebirth núm. 1 USA (one-shot), Deathstroke Vol. 4 núms. 1 a 8 USA",
+    "Año": "2016.0",
+    "Saga/evento": "",
+    "Periodo": "Rebirth",
+    "Personaje": "Deathstroke",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0XM/coleccion_heroes_y_villanos/68"
+  },
+  {
+    "Número": "#69",
+    "Título": "Legión de Superhéroes: La Legión de Tres Mundos",
+    "Contenido": "Action Comics núm. 864 y Final Crisis: Legion of Three Worlds núms. 1-5 USA",
+    "Año": "2008.0",
+    "Saga/evento": "Superman Legion",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Legion de Super-Heroes, Superman",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0Xz6/coleccion_heroes_y_villanos/69"
+  },
+  {
+    "Número": "#70",
+    "Título": "Wonder Woman: Las Mentiras",
+    "Contenido": "Wonder Woman: Rebirth núm. 1 (one-shot), Wonder Woman Vol. 5 núms. 1, 3, 5, 7, 9 y 11 USA",
+    "Año": "2016.0",
+    "Saga/evento": "Wonder Woman Rebirth",
+    "Periodo": "Rebirth",
+    "Personaje": "Wonder Woman",
+    "Url Whakoom": "https://www.whakoom.com/comics/6p0XO/coleccion_heroes_y_villanos/70"
+  },
+  {
+    "Número": "#71",
+    "Título": "Hawkman: La Leyenda",
+    "Contenido": "Legend of the Hawkman 1-3 USA",
+    "Año": "2000.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Hawkman",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0XH/coleccion_heroes_y_villanos/71"
+  },
+  {
+    "Número": "#72",
+    "Título": "Batgirl: El reflejo más oscuro",
+    "Contenido": "Batgirl Vol. 4 núms 1-8 USA",
+    "Año": "2011.0",
+    "Saga/evento": "",
+    "Periodo": "The New52",
+    "Personaje": "Batgirl",
+    "Url Whakoom": "https://www.whakoom.com/comics/8p0Xt/coleccion_heroes_y_villanos/72"
+  },
+  {
+    "Número": "#73",
+    "Título": "Superman: La Zona Fantasma",
+    "Contenido": "DC Comics Presents Vol. 1 # 97, y The Phantom Zone # 1-4 USA",
+    "Año": "1982.0",
+    "Saga/evento": "",
+    "Periodo": "Pre-Crisis",
+    "Personaje": "Superman",
+    "Url Whakoom": "https://www.whakoom.com/comics/yp0XF/coleccion_heroes_y_villanos/73"
+  },
+  {
+    "Número": "#74",
+    "Título": "Wonder Woman: La Verdad",
+    "Contenido": "Wonder Woman Vol. 5 núms. 13, 15, 17, 19, 21, 23, 25 USA",
+    "Año": "2016.0",
+    "Saga/evento": "Wonder Woman Rebirth",
+    "Periodo": "Rebirth",
+    "Personaje": "Wonder Woman",
+    "Url Whakoom": "https://www.whakoom.com/comics/p0XW7/coleccion_heroes_y_villanos/74"
+  },
+  {
+    "Número": "#75",
+    "Título": "Nightwing: Un Caballero en Blüdhaven",
+    "Contenido": "Nightwing Vol. 2 #1-11 USA",
+    "Año": "1996.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Nightwing",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0XB/coleccion_heroes_y_villanos/75"
+  },
+  {
+    "Número": "#76",
+    "Título": "Aquaman: El Tiempo y la Marea",
+    "Contenido": "Aquaman: Time and Tide 1-4 y Aquaman Vol 5 0-4",
+    "Año": "1993.0",
+    "Saga/evento": "Aquaman Peter David",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Aquaman",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0Xx/coleccion_heroes_y_villanos/76"
+  },
+  {
+    "Número": "#77",
+    "Título": "Supergirl: El reino de los Superhombres Cíborg",
+    "Contenido": "Supergirl: Rebirth núm. 1 USA (one-shot), Supergirl Vol. 7 núms. 1-6 USA.",
+    "Año": "2016.0",
+    "Saga/evento": "",
+    "Periodo": "Rebirth",
+    "Personaje": "Supergirl",
+    "Url Whakoom": "https://www.whakoom.com/comics/6p0Xh/coleccion_heroes_y_villanos/77"
+  },
+  {
+    "Número": "#78",
+    "Título": "Liga de la Justicia: Pesadilla de verano",
+    "Contenido": "Justice League: A Midsummer's Nightmare 1-3 y JLA: Paradise Lost 1-3 USA",
+    "Año": "1996.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Justice League",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0X2/coleccion_heroes_y_villanos/78"
+  },
+  {
+    "Número": "#79",
+    "Título": "Batman: Caballeros de Gotham",
+    "Contenido": "Batman: Gotham Knights #1-11 USA.",
+    "Año": "2000.0",
+    "Saga/evento": "",
+    "Periodo": "Post-Crisis",
+    "Personaje": "Batman",
+    "Url Whakoom": "https://www.whakoom.com/comics/kp0X4/coleccion_heroes_y_villanos/79"
+  },
+  {
+    "Número": "#80",
+    "Título": "Superman: Encuentros Cósmicos",
+    "Contenido": "DC Comics Presents 26-29, 36-37, 43 USA",
+    "Año": "1980.0",
+    "Saga/evento": "",
+    "Periodo": "Pre-Crisis",
+    "Personaje": "Superman",
+    "Url Whakoom": "https://www.whakoom.com/comics/jp0Xp/coleccion_heroes_y_villanos/80"
+  }
+]
