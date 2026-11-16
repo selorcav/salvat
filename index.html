@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Los 80 tomos de Héroes y Villanos de Salvat, en orden de colección.">
+  <title>Héroes y Villanos — Colección Salvat</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="datos.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="masthead"><a href="index.html" class="brand"><strong class="dc-mark">DC</strong> <span>COLECCIÓN SALVAT</span></a><span class="edition">HÉROES Y VILLANOS</span></header>
+  <main>
+    <section class="intro" aria-labelledby="title">
+      <div class="intro-heading">
+      <h1 id="title">Héroes <span>&</span> Villanos<span class="period">.</span></h1>
+      <div class="collection-label"><span class="small-dot"></span> LA COLECCIÓN COMPLETA <span class="count">01 — 80</span></div>
+      </div>
+      <section class="collection-toolbar period-filter" aria-label="Orden y filtros">
+      <div class="sort-filter">
+      <h2>Ordenar por</h2>
+      <div class="sort-controls" role="group" aria-label="Ordenar la colección">
+        <button type="button" data-sort="numero" aria-pressed="true">Número de tomo</button>
+        <button type="button" data-sort="fecha" aria-pressed="false">Fecha de publicación</button>
+      </div>
+      <p id="sort-description" class="sort-description" aria-live="polite">Ordenados del tomo 1 al 80.</p>
+      </div>
+      <div class="period-filter-group">
+        <h2 id="period-filter-title">Filtrar por periodo</h2>
+        <div id="period-filters" class="period-options" role="group" aria-label="Periodo"></div>
+      </div>
+        <div class="character-filter">
+          <label for="character-select">Filtrar por personaje</label>
+          <select id="character-select"><option value="">Todos los personajes</option></select>
+        </div>
+      </section>
+      <p id="filter-summary" class="sort-description" role="status"></p>
+    </section>
+    <section aria-label="Tomos en orden de colección" class="collection"><ol id="timeline" class="timeline"></ol><p id="status" role="status">Cargando la colección…</p></section>
+  </main>
+  <dialog id="tomo-modal" aria-labelledby="modal-title">
+    <div class="modal-shell">
+      <button type="button" class="modal-close" aria-label="Cerrar detalles">×</button>
+      <div class="modal-main">
+        <a id="modal-link" class="modal-cover-link" target="_blank" rel="noopener noreferrer"><img id="modal-cover" width="240" height="360" alt=""><span>Ver en Whakoom ↗</span></a>
+        <div class="modal-info"><p id="modal-number" class="number"></p><h2 id="modal-title"></h2><dl id="modal-fields"></dl></div>
+      </div>
+      <section id="modal-related" class="modal-related" aria-labelledby="related-title" hidden><h3 id="related-title">Otros tomos relacionados</h3><div id="related-list" class="related-list"></div></section>
+    </div>
+  </dialog>
+  <footer><span>HÉROES Y VILLANOS</span><span>80 TOMOS · COLECCIÓN SALVAT</span></footer>
+</body>
+</html>
