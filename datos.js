@@ -216,7 +216,7 @@ window.tomosColeccion = [
     "Año": "2007.0",
     "Saga/evento": "Superman Legion",
     "Periodo": "Post-Crisis",
-    "Personaje": "Superman",
+    "Personaje": "Superman, Legion de Super-Heroes",
     "Url Whakoom": "https://www.whakoom.com/comics/yp0LV/coleccion_heroes_y_villanos/20",
     "portada": "portadas/Superman y la Legión de Superhéroes.jpg"
   },
@@ -612,7 +612,7 @@ window.tomosColeccion = [
     "Año": "2007.0",
     "Saga/evento": "Justice League Brad Meltzer, JSA Vol.3",
     "Periodo": "Post-Crisis",
-    "Personaje": "Justice League",
+    "Personaje": "Justice League, JSA",
     "Url Whakoom": "https://www.whakoom.com/comics/p0L3q/coleccion_heroes_y_villanos/56",
     "portada": "portadas/Liga de la Justicia_ La saga del rayo.jpg"
   },
@@ -634,7 +634,7 @@ window.tomosColeccion = [
     "Año": "2011.0",
     "Saga/evento": "",
     "Periodo": "The New52",
-    "Personaje": "Suicide Squad, Deadshot",
+    "Personaje": "Suicide Squad, Deadshot, Harley Quinn",
     "Url Whakoom": "https://www.whakoom.com/comics/p0LRq/coleccion_heroes_y_villanos/58",
     "portada": "portadas/Escuadrón Suicida_ Patada en la boca.jpg"
   },
@@ -733,7 +733,7 @@ window.tomosColeccion = [
     "Año": "1983.0",
     "Saga/evento": "",
     "Periodo": "Pre-Crisis",
-    "Personaje": "Vigilante",
+    "Personaje": "Vigilante, Teen Titans",
     "Url Whakoom": "https://www.whakoom.com/comics/8p0Xr/coleccion_heroes_y_villanos/67",
     "portada": "portadas/Vigilante_ Yo soy la Justicia.jpg"
   },
